@@ -4,12 +4,20 @@
 
 ---
 
+## 🌐 바로가기 (Live Demo)
+👉 **[인포그래픽 웹사이트 바로보기 (GitHub Pages)](https://lifejmk.github.io/sermon-1corinthians-unity/)**
+
+[![GitHub Pages Status](https://img.shields.io/badge/GitHub_Pages-Active-success?style=for-the-badge&logo=github)](https://lifejmk.github.io/sermon-1corinthians-unity/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/lifejmk/sermon-1corinthians-unity)
+
+---
+
 ## 🌟 개요
 
 이 프로젝트는 **고린도전서 1장 10-17절** 설교 말씀을 시각적으로 정리한 **반응형 웹 인포그래픽**입니다.  
 교회 내의 분열과 파벌 형성을 경계하고, 찢어진 그물을 깁듯(*카테르티스메노이*) 그리스도의 십자가 은혜 안에서 서로를 회복하고 온전히 연합하는 성도의 삶을 안내합니다.
 
-![Preview](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=font-awesome&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
@@ -42,12 +50,4 @@
 - 🌓 **다크 모드 / 라이트 모드**: 원클릭 테마 전환
 - 🖨️ **인쇄 및 PDF 내보내기**: 설교 나눔지/인쇄용 CSS 최적화
 - 💾 **로컬 묵상 노트**: 브라우저 로컬 스토리지에 나만의 결단 저장
-- 🌐 **GitHub Pages 호환**: 별도 빌드 없이 즉시 호스팅 가능
-
----
-
-## 🚀 배포 (GitHub Pages)
-
-1. 저장소 `Settings` > `Pages` 메뉴로 이동합니다.
-2. `Branch` 설정에서 `main` 브랜치를 선택하고 저장합니다.
-3. 몇 초 후 제공되는 퍼블릭 URL로 인포그래픽을 전 세계 성도들과 공유할 수 있습니다.
+- 🌐 **GitHub Pages 자동 호스팅**: [https://lifejmk.github.io/sermon-1corinthians-unity/](https://lifejmk.github.io/sermon-1corinthians-unity/)
